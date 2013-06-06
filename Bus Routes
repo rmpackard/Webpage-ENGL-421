@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Anton|Noto+Sans' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="style3.css" />
+<title>Purdue University Housing - Bus Routes</title>
+</head>
+
+<body>
+<nav id="top_nav">
+BUS ROUTES
+</nav>
+<div id="wrapper">
+<div id="page">
+    <div class="topNaviagationLink"><a href="index3.html">Home</a></div>
+    <div class="topNaviagationLink"><a href="on-campus.html">On-Campus</a></div>
+    <div class="topNaviagationLink"><a href="off-campus.html">Off-Campus</a></div>
+  <div class="topNaviagationLink"><a href="busroutes.html">Bus Routes</a></div>
+    <div class="topNaviagationLink"><a href="saftey.html">Safety</a></div>
+    <div class="topNaviagationLink"><a href="gallery.html">See It</a></div>
+</div>
+
+<div class="main_pic">
+<img src="bus1.png" alt="City Bus">
+</div>
+<div class="intro">
+<p>CITYBUS is a contracted partner with Purdue University for public transportation services. CityBus gives Purdue Students, faculty, and staff unlimited, fare-free access to the CityBus system with a valid Purdue ID. Maps and schedule for the Campus Loops are also available online. For further information, call (765)-742-RIDE. CITYBUS provides a great form of transportation to get to and from class and other locations such as the mall and the grocery stores.  </p>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class="map">
+<figure id="mapfig">
+<img src="bus-loops.png" alt="Bus Routes">
+</figure>
+</div>
+   
+</div>
+</body>
+</html>
