@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Anton|Noto+Sans' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="style3.css" />
+<title>Purdue University Housing - Safety</title>
+</head>
+
+<body>
+<nav id="top_nav">
+SAFETY
+</nav>
+<div id="wrapper">
+<div id="page">
+    <div class="topNaviagationLink"><a href="index3.html">Home</a></div>
+    <div class="topNaviagationLink"><a href="on-campus.html">On-Campus</a></div>
+    <div class="topNaviagationLink"><a href="off-campus.html">Off-Campus</a></div>
+  <div class="topNaviagationLink"><a href="busroutes.html">Bus Routes</a></div>
+    <div class="topNaviagationLink"><a href="saftey.html">Safety</a></div>
+    <div class="topNaviagationLink"><a href="gallery.html">See It</a></div>
+</div>
+
+<div class="main_pic">
+<img src="safety1.png" alt="Purdue Fire Station">
+</div>
+<div class="intro">
+<p>All Residence Halls are equipped with up-to-date safety equipment. To the left is a chart with the given Fire Protective Systems that each Residence Hall is provided with. Along with the safety equipment, Purdue University has two Fire Stations on campus with around-the-clock staff.</p>
+<br />
+<p>Purdue's Campus also has Emergency Telephone Call Boxes indicated by a bright blue light placed in strategic locations. Each box is a direct line to the Purdue Police and sends a location of where the call came from. Walking at night after a study session is now safer than ever.</p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="map">
+<figure id="mapfig">
+<img src="safetychart.png" alt="Bus Routes">
+</figure>
+</div>
+   
+</div>
+</body>
+</html>
