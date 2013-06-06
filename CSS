@@ -1,0 +1,276 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/**************************
+HTML Reset
+*********************************/
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+display: block;
+}
+body {
+line-height: 1;
+}
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+/*************************
+LINKS
+*************************/
+
+#page
+{
+  display: block;
+  padding-top:5%;
+  padding-bottom:5%; 
+}
+
+.topNaviagationLink
+{
+text-align:center;
+font-size:1.5em;
+color:#C90;
+font-family:'Noto Sans', sans-serif;
+}
+
+.topNaviagationLink a
+{
+text-decoration:none;
+color:#C90;
+}
+
+.topNaviagationLink a:hover
+{
+text-align:center;
+border-bottom:none;
+color:#000;
+}
+
+
+@media screen and (min-width:700px) {
+#page
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 698px;
+}
+
+.topNaviagationLink
+{
+background-color:#333;
+text-align:Center;
+position:relative;
+margin-top:30px;
+font-size:1.125em;
+margin-left:-5px;
+width:121px;
+height: 35px;
+line-height: 35px;
+float:left;
+color:#C90;
+font-family:'Noto Sans', sans-serif;
+
+}
+
+.topNaviagationLink a
+{
+text-decoration:none;
+color:#C90;
+}
+
+.topNaviagationLink a:hover
+{
+text-align:center;
+border-bottom:none;
+color:#000;
+width:121px;
+height: 35px;
+line-height: 35px;
+font-size:1.125em;
+}
+
+.main_pic{
+  float:right;
+}
+}
+
+/*****************
+Main Picture
+******************/
+
+.main_pic{
+	padding-top:1%;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:2%;
+	max-width:451px;
+	max-height:316px;
+}
+
+
+
+/*****************
+BODY
+******************/
+body{
+	background-color:#000;
+	color:#FFF;
+}
+
+img{
+	width:100%;
+}
+
+#wrapper{
+	padding-bottom:10%;
+	background-color:#666;
+	min-height:740px;
+}
+
+#top_nav{
+	padding-top:1%;
+	padding-bottom:1%;
+	color:#C90; 
+	font-family: 'Anton', sans-serif;
+	text-align: center; 
+	font-size: 3em;	
+}
+
+.intro{
+	text-align:justify;
+	padding-top:1%;
+	padding-left:5%;
+	padding-right:5%;
+	text-indent:4%;
+	font-size:1.125em;
+	line-height:130%;
+	font-family:'Noto Sans', sans-serif;	
+}
+
+.map{
+	padding-left:10.5%;
+	padding-right:10.5%;
+	max-width:1000px;
+	max-height:1000px;
+}
+
+#mapfig{
+	background-color:#C90;
+	padding:1%;
+}
+
+
+@media screen and (min-width:1024px) {
+#wrapper{
+	margin:0 auto;
+	width:auto; 
+	font-size:100%;
+	max-width:1280px;
+}
+}
+
+/**********
+TABLE
+**********/
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+tr:nth-of-type(odd){
+	background: black;
+	color: #C90;
+}
+tr:nth-of-type(even) {
+	background: black;
+	color: white;
+}
+th {
+	background: black;
+	color:#C90;
+	font-weight: bold;
+	font-size:1.125em;
+	
+}
+td, th {
+	padding: 6px;
+	border: 2px solid #ccc;
+	text-align: left;
+}
+
+.tablinka{
+	color:#FFF;
+}
+
+.tablinkb{
+	color:#C90;
+}
+
+
+@media only screen and (max-width: 800px) {
+	
+	.cf:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+	
+	
+	table { width: 100%; border-collapse: collapse; border-spacing: 0; }
+ 
+	th,
+	td { margin: 0; vertical-align: top; }
+	th { text-align: left; }
+	
+	table { display: block; position: relative; width: 100%; }
+	thead { display: block; float: left; }
+	tbody { display: block; width: auto; position: relative; overflow-x: auto; white-space: nowrap; }
+	thead tr { display: block; }
+	th { display: block; text-align: right; }
+	tbody tr { display: inline-block; vertical-align: top; }
+	td { display: block; min-height: 1.25em; text-align: left; }
+ 
+ 
+	/* sort out borders */
+ 
+	th { border-bottom: 0; border-left: 0; }
+	td { border-left: 0; border-right: 0; border-bottom: 0; }
+	tbody tr { border-left: 1px solid #babcbf; }
+	th:last-child,
+	td:last-child { border-bottom: 1px solid #babcbf; }
+}
