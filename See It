@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Anton|Noto+Sans' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="style3.css" />
+<title>Purdue University Housing - See It</title>
+</head>
+
+<body>
+<nav id="top_nav">
+SEE IT
+</nav>
+<div id="wrapper">
+<div id="page">
+    <div class="topNaviagationLink"><a href="index3.html">Home</a></div>
+    <div class="topNaviagationLink"><a href="on-campus.html">On-Campus</a></div>
+    <div class="topNaviagationLink"><a href="off-campus.html">Off-Campus</a></div>
+  <div class="topNaviagationLink"><a href="busroutes.html">Bus Routes</a></div>
+    <div class="topNaviagationLink"><a href="saftey.html">Safety</a></div>
+    <div class="topNaviagationLink"><a href="gallery.html">See It</a></div>
+</div>
+
+<table>
+            <tr>
+            <td><a href="bus1"><img src="bus1" alt="CityBus"></a></td>
+            </tr>
+            <tr>
+            <td><a href="bus2"><img src="bus2" alt="BoilerMaker Special"></a></td>
+            </tr>
+            <tr>
+            <td><a href="off1"><img src="off1" alt="Prime Campus Housing"></a></td>
+            </tr>
+            <tr>
+            <td><a href="off2"><img src="off2" alt="Copper Beach"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Windsor.png"><img src="Windsor" alt="Windsor"></a></td>
+            </tr>
+            <tr>
+            <td><a href="on2"><img src="on2" alt="Purdue Memorial Union"></a></td>
+            </tr>
+            <tr>
+            <td><a href="on3"><img src="on3" alt="Purdue Memorial Union"></a></td>
+            </tr>
+            <tr>
+            <td><a href="purpose1"><img src="purpose1" alt="Ross Ade"></a></td>
+            </tr>
+            <tr>
+            <td><a href="purpose2"><img src="purpose2" alt="Beering Fountain"></a></td>
+            </tr>
+            <tr>
+            <td><a href="safety2"><img src="safety2" alt="Emergency Telephone Box"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Shreve"><img src="Shreve" alt="Shreve hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="tarkington"><img src="tarkington" alt="Tarkington Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Wiley"><img src="Wiley" alt="Wiley Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="windsor"><img src="windsor" alt="Windsor Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Hillenbrand"><img src="Hillenbrand" alt="Hillenbrand Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="earhart"><img src="earhart" alt="Earhart Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="meredith"><img src="meredith" alt="Meredith Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Hilltop"><img src="Hilltop" alt="Hilltop Apartments"></a></td>
+            </tr>
+            <tr>
+            <td><a href="hawkins"><img src="hawkins" alt="Hawkins Hall"></a></td>
+            </tr>
+            <tr>
+            <td><a href="on5"><img src="on5" alt="Cary Quadrangle"></a></td>
+            </tr>
+            <tr>
+            <td><a href="paradigm"><img src="paradigm" alt="Paradigm Properties"></a></td>
+            </tr>
+            <tr>
+            <td><a href="chaunceymgmt"><img src="chaunceymgmt" alt="Chauncey Management"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Hislope"><img src="Hislope" alt="Hislope Property Management"></a></td>
+            </tr>
+            <tr>
+            <td><a href="granite"><img src="granite" alt="Granite Management"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Collegiate"><img src="Collegiate" alt="Collegiate Communities"></a></td>
+            </tr>
+            <tr>
+            <td><a href="Morris"><img src="Morris" alt="Morris Rentals"></a></td>
+            </tr>
+            </table>    
+
+
+
+
+</div>
+</body>
+</html>
