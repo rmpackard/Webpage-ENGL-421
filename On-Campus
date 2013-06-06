@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Anton|Noto+Sans' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="style3.css" />
+<title>Purdue University Housing - On Campus</title>
+</head>
+
+<body>
+<nav id="top_nav">
+ON CAMPUS HOUSING
+</nav>
+<div id="wrapper">
+<div id="page">
+    <div class="topNaviagationLink"><a href="index3.html">Home</a></div>
+    <div class="topNaviagationLink"><a href="on-campus.html">On-Campus</a></div>
+    <div class="topNaviagationLink"><a href="off-campus.html">Off-Campus</a></div>
+  <div class="topNaviagationLink"><a href="busroutes.html">Bus Routes</a></div>
+    <div class="topNaviagationLink"><a href="saftey.html">Safety</a></div>
+    <div class="topNaviagationLink"><a href="gallery.html">See It</a></div>
+</div>
+
+<div class="main_pic">
+<img src="Windsor.png" alt="Windsor Court">
+</div>
+<div class="intro">
+<p>Purdue University has been expanding the amount of housing by building new Residence Halls on campus. Within the past 20 years, Hillenbrand Hall and First Street Towers was built. Purdue plans on building another Residence Hall by the Fall of 2014. </p>
+<br />
+<p>There are five dining courts spread out all over campus where students can use their meal plan. If time is an issue then there are three locations where a normal swipe from your meal plan will get you four items. There are also two restaurants and two mini-marts where food is available. The Union also provides many venues where food and beverages can be sold.  </p>
+<br />
+<p>Along with the ten coed Residence Halls on campus, Purdue has an all-female Residence Hall, Windsor. Also, one of the largest all-male Residence Halls in the nation is Cary Quadrangle which happens to be one of two all-male Residence Halls on Campus. </p>
+<br />
+<p>The table 	above corresponds to the map on the previous page. All 14 Residence Halls are listed along with some of the amenities that come with living there. All Residence Halls have a Mail Room and Laundry Rooms, but not all have Air-Conditioning or Computer Labs which can be deciding factors when choosing which Hall to live in. </p>
+<br />
+<p>Although not mandatory for incoming students like many other universities, living in the Residence Halls is recommended. There are many new people to meet in a central location. Each Residence Hall has plenty of planned activities such as movie nights and late night pancake breakfast. </p>
+<br />
+<p>Each Residence Hall also contains Learning Communities which are great for students. A  Learning Community is a group of students living on the same floor who are all in similar majors taking the same classes. </p>
+</div>
+<br />
+<br />
+<br />
+<table>
+            <thead>
+            <tr>
+            	<th>Number on Map</th>
+                <th>Name</th>
+                <th>Rates (based on 12 meal plan)</th>
+                <th>Air-Conditioning</th>
+                <th>Pool Table & Ping-Pong</th>
+                <th>Computer Lab</th>
+                <th>Mail Room</th>
+                <th>Laundry Room</th>
+                <th>Study Rooms</th>
+           </tr>
+           </thead>
+           
+           <tbody>
+           <tr>
+           <td>1</td>
+           <td>Hillenbrand</td>
+           <td>$10,778 - 13,928</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>2</td>
+           <td>McCutcheon</td>
+           <td>$9,654 - 13,928</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>3</td>
+           <td>Harrison</td>
+           <td>$9,654</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+          <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>4</td>
+           <td>Purdue Village</td>
+           <td>$584 per month</td>
+           <td>Yes</td>
+          <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+          <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>5</td>
+           <td>First Street Towers</td>
+           <td>$14,694</td>
+           <td>Yes</td>
+          <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>6</td>
+           <td>Earhart</td>
+           <td>$9,654</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>7</td>
+           <td>Shreve</td>
+           <td>$9,654 - 11,650</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>8</td>
+           <td>Meredith</td>
+           <td>$8,106 - 11,650</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>9</td>
+           <td>Windsor</td>
+           <td>$8,464 - 13,928</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>10</td>
+           <td>Wiley</td>
+           <td>$8,424 - 12,432</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>11</td>
+           <td>Tarkington</td>
+           <td>$8,424 - 12,432</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>12</td>
+           <td>Owen</td>
+           <td>$8,424 - 12,432</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>13</td>
+           <td>Hilltop Apartments</td>
+           <td>$10,152</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           
+           <tr>
+           <td>14</td>
+           <td>Cary Quadrangle</td>
+           <td>$7,368 - 13,928</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>No</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           <td>Yes</td>
+           </tr>
+           </tbody>
+           </table>
+<br />    
+<br />
+<br />      
+<div class="map">
+<figure id="mapfig">
+<img src="on-campus%20map.png" alt="On Campus Map">
+</figure>
+</div>
+   
+</div>
+</body>
+</html>
