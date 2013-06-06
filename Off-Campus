@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Anton|Noto+Sans' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="style3.css" />
+<title>Purdue University Housing - Off Campus</title>
+</head>
+
+<body>
+<nav id="top_nav">
+OFF CAMPUS HOUSING
+</nav>
+<div id="wrapper">
+<div id="page">
+    <div class="topNaviagationLink"><a href="index3.html">Home</a></div>
+    <div class="topNaviagationLink"><a href="on-campus.html">On-Campus</a></div>
+    <div class="topNaviagationLink"><a href="off-campus.html">Off-Campus</a></div>
+  <div class="topNaviagationLink"><a href="busroutes.html">Bus Routes</a></div>
+    <div class="topNaviagationLink"><a href="saftey.html">Safety</a></div>
+    <div class="topNaviagationLink"><a href="gallery.html">See It</a></div>
+</div>
+
+<div class="main_pic">
+<img src="off1.png" alt="Prime Campus Housing Apartments">
+</div>
+<div class="intro">
+<p>Another housing option for all incoming students is off-campus living.  When living off-campus you must have more responsibility.  So that you can find a housing option that is a reasonable distance from campus for walking or has a bus route.  This is especially important for incoming students because you are not allowed to have a car on campus, however some renters allow residents to have car parked on property.   </p>
+<br />                  
+<p>Off-Campus housing is a usually going to be a cheaper and more spacious option than on-campus housing, which makes it a welcomed alternative to traditional dormitories. Most off-campus housing provides each bedroom with their own bathroom which is great compared to the communal showers in the Residence Halls. </p>
+<br />              
+<p>The map shown to the left includes only a few of the various apartments available for rent off-campus. The ten apartments shown are within 3/4 of a mile from the center of Campus. Not shown on the map are also Houses and Townhouses available for rent.  </p>
+<br />             
+<p>As shown in the chart above, the apartments listed correspond with the map the left. These apartments vary from Monthly Rent to the Number of Bedrooms to even the Furnishing of the apartment. </p>
+</div>
+<br />
+<br />
+<br />
+<table>
+
+	<thead>
+    <tr>
+    <th>Number on Map</th>
+    <th>Name of company</th>
+    <th>Monthly Rent</th>
+    <th>Number of Bedroom</th>
+    <th>Distance From Campus</th>
+    <th>Bathroom</th>
+    <th>Pets Allowed</th>
+    <th>Furnishing</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    	<tr>
+    <td>1</td>
+    <td><a href="http://www.housing.purdue.edu/OffCampus/Search/Details/wmelpv" class="tablinka">Hislope Property Management</a>
+	</td>
+    <td>$395</td>
+    <td>4</td>
+    <td>0.7</td>
+    <td>1.5</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+    	<tr>
+    <td>1</td>
+    <td><a href="http://www.housing.purdue.edu/OffCampus/Search/Details/wmelpv" class="tablinkb">Hislope Property Management</a>
+	</td>
+    <td>$325</td>
+    <td>1</td>
+    <td>0.7</td>
+    <td>2</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+    	<tr>
+    <td>2</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/1eytc12" class="tablinka">Morris Rental</a>
+	</td>
+    <td>$350</td>
+    <td>4</td>
+    <td>0.7</td>
+    <td>2</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+    	<tr>
+    <td>3</td>
+    <td><a href="http://www.housing.purdue.edu/OffCampus/Search/Details/12ljpm9" class="tablinkb">Collegiate Communities</a></td>
+    <td>$350</td>
+    <td>Studio Apt.</td>
+    <td>0.5</td>
+    <td>1</td>
+    <td>Yes</td>
+    <td>Partially</td>
+    </tr>
+    	<tr>
+    <td>4</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/1eytc12" class="tablinka">Morris Rental</a>
+    </td>
+    <td>$370</td>
+    <td>Studio Apt.</td>
+    <td>0.4</td>
+    <td>1.5</td>
+    <td>No</td>
+    <td>Fully</td>
+    </tr>
+        <tr>
+    <td>5</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/1eytc12" class="tablinkb">Morris Rental</a>
+    </td>
+    <td>$370</td>
+    <td>4</td>
+    <td>0.4</td>
+    <td>1.5</td>
+    <td>Yes</td>
+    <td>Partially</td>
+    </tr>
+        <tr>
+    <td>6</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/15mec03" class="tablinka">Granite Management</a>
+    </td>
+    <td>$405</td>
+    <td>4</td>
+    <td>0.5</td>
+    <td>2</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+        <tr>
+    <td>7</td>
+    <td>
+    <a  id="tablinkb" href="http://www.housing.purdue.edu/OffCampus/Search/Details/z4mwzs" class="tablinkb">Am Property Group</a>
+    </td>
+    <td>$420</td>
+    <td>3</td>
+    <td>0.7</td>
+    <td>2</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+        <tr>
+    <td>8</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/4qdmio" class="tablinka">Chauncey Management</a>
+    </td>
+    <td>$431</td>
+    <td>4</td>
+    <td>0.5</td>
+    <td>1</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+        <tr>
+    <td>9</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/4qdmio" class="tablinkb">Chauncey Management</a>
+    </td>
+    <td>$450</td>
+    <td>2</td>
+    <td>0.5</td>
+    <td>1</td>
+    <td>No</td>
+    <td>Unfurnished</td>
+    </tr>
+        <tr>
+    <td>10</td>
+    <td>
+    <a href="http://www.housing.purdue.edu/OffCampus/Search/Details/rpvjua" class="tablinka">Paradigm Properties</a>
+    </td>
+    <td>$450</td>
+    <td>Studio Apt.</td>
+    <td>0.4</td>
+    <td>1</td>
+    <td>No</td>
+    <td>Fully</td>
+    </tr>
+    </tbody>
+    </table>  
+<br />
+<br />
+<br />
+<div class="map">
+<figure id="mapfig">
+<img src="Off-campus%20map.png" alt="Off Campus Map">
+</figure>
+</div>
+
+</div>
+</body>
+</html>
