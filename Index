@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Anton|Noto+Sans' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="style3.css" />
+<title>Purdue University Housing</title>
+</head>
+
+<body>
+<nav id="top_nav">
+PURDUE UNIVERSITY HOUSING
+</nav>
+<div id="wrapper">
+<div id="page">
+    <div class="topNaviagationLink"><a href="index3.html">Home</a></div>
+    <div class="topNaviagationLink"><a href="on-campus.html">On-Campus</a></div>
+    <div class="topNaviagationLink"><a href="off-campus.html">Off-Campus</a></div>
+  <div class="topNaviagationLink"><a href="busroutes.html">Bus Routes</a></div>
+    <div class="topNaviagationLink"><a href="saftey.html">Safety</a></div>
+    <div class="topNaviagationLink"><a href="gallery.html">See It</a></div>
+</div>
+
+<div class="main_pic">
+<img src="belltower.sunset.jpeg" alt="Bell Tower At Dusk">
+</div>
+<div class="intro">
+<p>Welcome to Purdue University, I hope you are excited about joining the boilermaker family.  Since you are joining this family we want you to feel right at home from the first day you get here.  So we are providing you with this website of information on housing options near the University so you can find the place you will feel the most at home. </p>
+<br />
+<p>This website is going to include information and resources regarding On-Campus Housing, Off-Campus Housing , Bus Routes, and Safety information regarding the different locations of housing. </p>
+</div>
+
+
+
+</div>
+</body>
+</html>
